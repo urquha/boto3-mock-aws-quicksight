@@ -1,0 +1,6 @@
+{
+    "groups": {
+        "test_deployment-test_group_0": [{"Arn": "arn/test_role/test_user_0", "MemberName": "test_role/test_user_0"}, {"Arn": "arn/test_role/test_user_1", "MemberName": "test_role/test_user_1"}],
+        "test_deployment-test_group_1": [{"Arn": "arn/test_role/test_user_2", "MemberName": "test_role/test_user_2"}, {"Arn": "arn/test_role/test_user_1", "MemberName": "test_role/test_user_1"}]
+    }
+}
