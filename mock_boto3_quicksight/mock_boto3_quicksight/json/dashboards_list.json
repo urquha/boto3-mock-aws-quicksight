@@ -1,0 +1,7 @@
+{
+    "dashboards" : [
+        {"dashboard_id": "dashboard_id_1", "arn":"arn:aws:quicksight:eu-west-2:337770742416:user/default/username_1/email_1", "username": "username_1", "email": "email_1"},
+        {"dashboard_id": "dashboard_id_2", "arn":"arn:aws:quicksight:eu-west-2:337770742416:user/default/username_2/email_2", "username": "username_2", "email": "email_2"},
+        {"dashboard_id": "dashboard_id_3", "arn":"arn:aws:quicksight:eu-west-2:337770742416:user/default/username_3/email_3", "username": "username_3", "email": "email_3"}
+    ]
+}
